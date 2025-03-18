@@ -94,3 +94,6 @@ Note: If 2FA is required, select a trusted device (e.g., '1' for iPhone) instead
 - **Download Location:** Change `DOWNLOAD_DIR` in the script (e.g., `DOWNLOAD_DIR = "C:\\Photos"`).  
 - **Tool Paths:** Update `EXIFTOOL_PATH` or `ICLOUDPD_PATH` if they’re not in default locations.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
